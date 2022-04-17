@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## Description: Run the Pimcore Installer
+## Usage: pimcore-install
+## Example: ddev pimcore-install
+
+php ./vendor/bin/pimcore-install $@ --no-interaction

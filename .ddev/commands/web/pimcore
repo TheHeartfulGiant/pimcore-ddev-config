@@ -1,0 +1,7 @@
+#!/bin/bash
+
+## Description: Pimcore Console
+## Usage: pimcore
+## Example: ddev pimcore
+
+php ./bin/console $@
